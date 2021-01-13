@@ -1,2 +1,2 @@
 # Analyze-A/B-Test-Results
-We will perform some analysis practices on the movies data set starting by, assessing the data quality and then fix some of data. Then explore it and visualize it and draw some conclusions.
+We will be working to understand the results of an A/B test run by an e-commerce website. our goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
